@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250" role="img" aria-label="rule pulse">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0d13"/>
+      <stop offset="1" stop-color="#17132e"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffc857"/>
+      <stop offset="1" stop-color="#e5657f"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Noto Sans SC','PingFang SC','Microsoft YaHei','Segoe UI',Helvetica,Arial,sans-serif; }
+    .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; }
+    .t { fill: #eef1f7; }
+    .d { fill: #a8b3c4; }
+    .f { fill: #7d8899; }
+    .title { font-size: 13px; font-weight: 600; letter-spacing: .06em; }
+    .kpi { font-size: 22px; font-weight: 700; }
+    .cap { font-size: 9.5px; letter-spacing: .12em; }
+    .sm { font-size: 10.5px; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-160px); } }
+    @keyframes glow { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    .drift { animation: drift 14s linear infinite; }
+    .glow { animation: glow 4.5s ease-in-out infinite; }
+    .grow { transform-box: fill-box; transform-origin: left center; animation: grow 1.6s cubic-bezier(.22,1,.36,1) both; }
+    @media (prefers-reduced-motion: reduce) {
+      .drift, .glow, .grow { animation: none; }
+      .grow { transform: none; }
+    }
+
+  </style>
+  <rect width="430" height="250" rx="14" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="429" height="249" rx="13.5" fill="none" stroke="#2b2545"/>
+  <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
+  <text class="t title" x="26" y="25">rule pulse</text>
+  <text class="f cap mono" x="414" y="25" text-anchor="end">hyperadrules</text>
+  <text class="t" x="26" y="58" font-size="15" font-weight="600">HyperADRules</text>
+  <text class="d sm" x="26" y="76">多上游合并 → mihomo MRS · sing-box SRS · Clash · AdGuard</text>
+  <g opacity=".85">
+    <polyline points="26.0,96.0 30.0,97.3 34.0,98.4 37.9,99.3 41.9,99.7 45.9,99.5 49.9,98.7 53.9,97.4 57.8,95.9 61.8,94.2 65.8,92.8 69.8,91.7 73.7,91.4 77.7,91.7 81.7,92.8 85.7,94.4 89.7,96.3 93.6,98.3 97.6,100.0 101.6,101.1 105.6,101.5 109.6,101.0 113.5,99.7 117.5,97.7 121.5,95.4 125.5,93.2 129.5,91.3 133.4,90.1 137.4,89.8 141.4,90.5 145.4,92.1 149.3,94.3 153.3,96.9 157.3,99.3 161.3,101.3 165.3,102.5 169.2,102.7 173.2,101.8 177.2,100.0 181.2,97.6 185.2,94.9 189.1,92.3 193.1,90.3 197.1,89.2 201.1,89.1 205.1,90.2 209.0,92.1 213.0,94.6 217.0,97.4 221.0,99.9 224.9,101.8 228.9,102.9 232.9,102.8 236.9,101.7 240.9,99.7 244.8,97.1 248.8,94.4 252.8,92.0 256.8,90.2 260.8,89.3 264.7,89.5 268.7,90.7 272.7,92.7 276.7,95.1 280.7,97.7 284.6,99.9 288.6,101.5 292.6,102.2 296.6,101.9 300.5,100.7 304.5,98.8 308.5,96.6 312.5,94.3 316.5,92.3 320.4,91.0 324.4,90.5 328.4,90.9 332.4,92.0 336.4,93.7 340.3,95.7 344.3,97.6 348.3,99.2 352.3,100.3 356.3,100.6 360.2,100.3 364.2,99.2 368.2,97.8 372.2,96.1 376.1,94.6 380.1,93.3 384.1,92.5 388.1,92.3 392.1,92.7 396.0,93.6 400.0,94.7 404.0,96.0" fill="none" stroke="url(#edge)" stroke-width="1.4"/>
+    <circle class="glow" cx="400" cy="96" r="3.5" fill="#7fd6a3"/>
+  </g>
+  <text class="f cap mono" x="26" y="118">RELEASE</text>
+  <text class="t sm mono" x="150" y="118">snapshot-20260825</text>
+  <text class="f cap mono" x="26" y="142">BUILT</text>
+  <text class="t sm mono" x="150" y="142">2026-08-25 · 16h ago</text>
+  <text class="f cap mono" x="26" y="166">ARTIFACTS</text>
+  <text class="t sm mono" x="150" y="166">46 files · 46.4 MB</text>
+  <text class="f cap mono" x="26" y="190">DOWNLOADS</text>
+  <text class="t sm mono" x="150" y="190">359 on this build</text>
+  <text class="f cap mono" x="26" y="214">ADOPTION</text>
+  <text class="t sm mono" x="150" y="214">282 stars · 12 forks</text>
+  <text class="f cap mono" x="26" y="238">DAILY SNAPSHOT PIPELINE · SNAPSHOT 2026-08-26</text>
+</svg>
