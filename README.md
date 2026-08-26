@@ -50,7 +50,7 @@
 </td>
 <td width="33.3%" valign="top">
 
-<b>◤ ALGORITHM</b><br>
+<b>◤ ALGORITHM &amp; PLAYGROUND</b><br>
 <sub>手感是训练出来的</sub><br><br>
 <a href="https://github.com/Lynricsy/MyOI"><b>MyOI</b></a> · C++<br>
 <sub>竞赛代码与题解，给同样在啃 OI 的人</sub><br><br>
@@ -190,18 +190,15 @@ uint32_t popcount(uint32_t x) {
 </div>
 
 <details>
-<summary>更多统计（提交连续性、语言与时段分布）</summary>
+<summary>更多统计（语言与时段分布）</summary>
 
 <div align="center">
-
-<img alt="streak" src="https://streak-stats.demolab.com?user=Lynricsy&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" width="60%">
-
 <img alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynricsy&theme=github_dark" width="49%">
 <img alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynricsy&theme=github_dark&utcOffset=8" width="49%">
 
 </div>
 
-<sub>这三张来自第三方服务，会有缓存延迟；上面的自产卡片才是权威数据。</sub>
+<sub>这两张来自第三方服务，会有缓存延迟；上面的自产卡片才是权威数据。</sub>
 
 </details>
 
