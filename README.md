@@ -135,11 +135,11 @@
 
 **🚀 最近发布**
 
+- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** [`snapshot-20260825`](https://github.com/Lynricsy/AdRulesUltra/releases/tag/snapshot-20260825) — 2026-08-25 · 46 artifacts
 - **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20260825`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20260825) — 2026-08-25 · 46 artifacts
 - **[OneSSH](https://github.com/Lynricsy/OneSSH)** [`v0.1.13`](https://github.com/Lynricsy/OneSSH/releases/tag/v0.1.13) — 2026-08-20 · 9 artifacts
 - **[AgentConfigHub](https://github.com/Lynricsy/AgentConfigHub)** [`v0.2.2`](https://github.com/Lynricsy/AgentConfigHub/releases/tag/v0.2.2) — 2026-08-15
 - **[WanxiangExtra](https://github.com/Lynricsy/WanxiangExtra)** [`latest`](https://github.com/Lynricsy/WanxiangExtra/releases/tag/latest) — 2026-08-13 · 5 artifacts
-- **[AgentLogs](https://github.com/Lynricsy/AgentLogs)** [`v2.0.1`](https://github.com/Lynricsy/AgentLogs/releases/tag/v2.0.1) — 2026-08-10
 
 </td>
 <td valign="top" width="50%">
