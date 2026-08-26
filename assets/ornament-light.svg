@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="ot">
+<title id="ot">Decorative astrolabe: orbits and sound rings turning around a small signal core.</title>
+<defs>
+<linearGradient id="ag" gradientUnits="userSpaceOnUse" x1="26" y1="26" x2="194" y2="194"><stop offset="0" stop-color="#c9821a" stop-opacity="1.0"/><stop offset="0.36" stop-color="#d1603d" stop-opacity="1.0"/><stop offset="0.7" stop-color="#b34a63" stop-opacity="1.0"/><stop offset="1" stop-color="#7a5580" stop-opacity="1.0"/></linearGradient>
+<linearGradient id="ad" gradientUnits="userSpaceOnUse" x1="194" y1="26" x2="26" y2="194"><stop offset="0" stop-color="#c9821a" stop-opacity="1.0"/><stop offset="0.5" stop-color="#b34a63" stop-opacity="1.0"/><stop offset="1" stop-color="#7a5580" stop-opacity="1.0"/></linearGradient>
+<radialGradient id="core"><stop offset="0" stop-color="#d1603d" stop-opacity="0.16"/><stop offset="0.55" stop-color="#d1603d" stop-opacity="0.06"/><stop offset="1" stop-color="#d1603d" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#c9821a" stop-opacity="0.5"/><stop offset="1" stop-color="#c9821a" stop-opacity="0"/></radialGradient>
+</defs>
+<style>.sp1{animation:s1 12s linear infinite}.sp2{animation:s2 14s linear infinite}.orb1{animation:o1 16s linear infinite}.orb2{animation:o2 12s linear infinite}.pl1{animation:pl 9s ease-out infinite}.pl2{animation:pl 9s ease-out infinite;animation-delay:-4.5s}.core{animation:co 10s ease-in-out infinite}.arc{animation:ar 13s ease-in-out infinite}.plate{animation:br 16s ease-in-out infinite}.sp1,.sp2,.orb1,.orb2,.pl1,.pl2{transform-box:view-box;transform-origin:110.0px 110.0px}@keyframes s1{from{transform:rotate(0)}to{transform:rotate(10.0000deg)}}@keyframes s2{from{transform:rotate(0)}to{transform:rotate(-15.0000deg)}}@keyframes o1{from{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes o2{from{transform:rotate(0)}to{transform:rotate(-360deg)}}@keyframes pl{0%{transform:scale(.26);opacity:.44}100%{transform:scale(1);opacity:0}}@keyframes co{0%,100%{opacity:.62}50%{opacity:.95}}@keyframes ar{0%,100%{opacity:.46}50%{opacity:.8}}@keyframes br{0%,100%{opacity:.82}50%{opacity:1}}@media (prefers-reduced-motion: reduce){.sp1,.sp2,.orb1,.orb2,.pl1,.pl2,.core,.arc,.plate{animation:none}}</style>
+<circle class="pl1" cx="110.0" cy="110.0" r="94" fill="none" stroke="url(#ad)" stroke-width="1.4" opacity="0.13"/>
+<circle class="pl2" cx="110.0" cy="110.0" r="94" fill="none" stroke="url(#ad)" stroke-width="1.4" opacity="0.13"/>
+<circle cx="110.0" cy="110.0" r="34" fill="url(#core)"/>
+<g class="plate" fill="none">
+<circle class="sp1" cx="110.0" cy="110.0" r="94" stroke="#6b6072" stroke-width="1.4" stroke-dasharray="2.0 14.41" opacity="0.68"/>
+<path d="M206.0 110.0L216.0 110.0M193.1 158.0L198.3 161.0M158.0 193.1L161.0 198.3M110.0 206.0L110.0 216.0M62.0 193.1L59.0 198.3M26.9 158.0L21.7 161.0M14.0 110.0L4.0 110.0M26.9 62.0L21.7 59.0M62.0 26.9L59.0 21.7M110.0 14.0L110.0 4.0M158.0 26.9L161.0 21.7M193.1 62.0L198.3 59.0" stroke="#6b6072" stroke-width="1.4" opacity="0.55"/>
+<circle cx="110.0" cy="110.0" r="70" stroke="url(#ag)" stroke-width="1.4" opacity="0.36"/>
+<circle class="sp2" cx="110.0" cy="110.0" r="48" stroke="url(#ad)" stroke-width="1.4" stroke-dasharray="2.6 9.97" opacity="0.72"/>
+<path d="M110.0 40.0 L180.0 110.0 L110.0 180.0 L40.0 110.0 Z" stroke="url(#ag)" stroke-width="1.4" opacity="0.4" stroke-linejoin="round"/>
+<path d="M110.0 80.0L110.0 16.0M152.0 91.3L188.6 75.0M78.0 151.0L52.1 184.1M86.6 98.6L54.3 82.8" stroke="#6b6072" stroke-width="1.4" opacity="0.49"/>
+<path class="arc" d="M40.46 66.55A82 82 0 0 1 187.99 84.66" stroke="url(#ag)" stroke-width="1.9" stroke-linecap="round" opacity="0.64"/>
+<path d="M103.94 167.68A58 58 0 0 1 52.14 114.05" stroke="url(#ad)" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+</g>
+<g class="orb1"><circle cx="204.0" cy="110.0" r="7" fill="url(#glow)"/><circle cx="204.0" cy="110.0" r="2.4" fill="#c9821a" opacity="1.0"/></g>
+<g class="orb2"><circle cx="62.0" cy="110.0" r="5.5" fill="url(#glow)" opacity="0.7"/><circle cx="62.0" cy="110.0" r="1.8" fill="#b34a63" opacity="1.0"/></g>
+<circle cx="136.2" cy="45.1" r="2.6" fill="none" stroke="url(#ag)" stroke-width="1.5" opacity="0.72"/>
+<path class="core" d="M93.5 106.4V113.6M99.0 101.6V118.4M104.5 95.5V124.5M110.0 91.5V128.5M115.5 98.2V121.8M121.0 103.4V116.6M126.5 106.8V113.2" fill="none" stroke="url(#ag)" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
