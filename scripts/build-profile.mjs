@@ -91,7 +91,8 @@ async function fetchFacts() {
 
 function digest(user) {
   const repos = user.repositories.nodes.filter(Boolean);
-  const active = repos.filter((r) => !r.isArchived);
+  // 主页仓库自己不算“最近推进”：刷新卡片的机器人提交会把它永远顶在第一行。
+  const active = repos.filter((r) => !r.isArchived && r.name.toLowerCase() !== user.login.toLowerCase());
   const stars = repos.reduce((s, r) => s + r.stargazerCount, 0);
   const forks = repos.reduce((s, r) => s + r.forkCount, 0);
 
