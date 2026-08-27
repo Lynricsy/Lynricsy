@@ -44,30 +44,30 @@
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">shipping cadence</text>
   <text class="f cap mono" x="414" y="25" text-anchor="end">12m</text>
-  <text class="t kpi mono" x="26" y="72">90</text>
+  <text class="t kpi mono" x="26" y="72">91</text>
   <text class="f cap mono" x="26" y="87">RELEASES 12M</text>
   <text class="t kpi mono" x="158" y="72">9</text>
   <text class="f cap mono" x="158" y="87">REPOS SHIPPING</text>
-  <text class="t kpi mono" x="290" y="72">63</text>
+  <text class="t kpi mono" x="290" y="72">65</text>
   <text class="f cap mono" x="290" y="87">BUSIEST MONTH</text>
   <text class="f cap mono" x="26" y="108">TAGGED RELEASES PER MONTH</text>
   <rect class="rise" x="32.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:0ms"/>
   <rect class="rise" x="63.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:55ms"/>
   <rect class="rise" x="94.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:110ms"/>
   <rect class="rise" x="125.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:165ms"/>
-  <rect class="rise" x="156.0" y="173.0" width="23.0" height="21.0" rx="2" fill="url(#fade)" style="animation-delay:220ms"/>
-  <text class="f cap mono" x="167.5" y="168.0" text-anchor="middle">6</text>
-  <rect class="rise" x="187.0" y="176.9" width="23.0" height="17.1" rx="2" fill="url(#fade)" style="animation-delay:275ms"/>
-  <text class="f cap mono" x="198.5" y="171.9" text-anchor="middle">4</text>
+  <rect class="rise" x="156.0" y="173.3" width="23.0" height="20.7" rx="2" fill="url(#fade)" style="animation-delay:220ms"/>
+  <text class="f cap mono" x="167.5" y="168.3" text-anchor="middle">6</text>
+  <rect class="rise" x="187.0" y="177.1" width="23.0" height="16.9" rx="2" fill="url(#fade)" style="animation-delay:275ms"/>
+  <text class="f cap mono" x="198.5" y="172.1" text-anchor="middle">4</text>
   <rect class="rise" x="218.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:330ms"/>
   <rect class="rise" x="249.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:385ms"/>
   <rect class="rise" x="280.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#e7dcdb" style="animation-delay:440ms"/>
-  <rect class="rise" x="311.0" y="166.9" width="23.0" height="27.1" rx="2" fill="url(#fade)" style="animation-delay:495ms"/>
-  <text class="f cap mono" x="322.5" y="161.9" text-anchor="middle">10</text>
-  <rect class="rise" x="342.0" y="171.3" width="23.0" height="22.7" rx="2" fill="url(#fade)" style="animation-delay:550ms"/>
-  <text class="f cap mono" x="353.5" y="166.3" text-anchor="middle">7</text>
+  <rect class="rise" x="311.0" y="167.3" width="23.0" height="26.7" rx="2" fill="url(#fade)" style="animation-delay:495ms"/>
+  <text class="f cap mono" x="322.5" y="162.3" text-anchor="middle">10</text>
+  <rect class="rise" x="342.0" y="173.3" width="23.0" height="20.7" rx="2" fill="url(#fade)" style="animation-delay:550ms"/>
+  <text class="f cap mono" x="353.5" y="168.3" text-anchor="middle">6</text>
   <rect class="rise" x="373.0" y="126.0" width="23.0" height="68.0" rx="2" fill="url(#fade)" style="animation-delay:605ms"/>
-  <text class="f cap mono" x="384.5" y="121.0" text-anchor="middle">63</text>
+  <text class="f cap mono" x="384.5" y="121.0" text-anchor="middle">65</text>
   <line x1="32" y1="195" x2="404" y2="195" stroke="#e7dcdb" stroke-width="1"/>
   <text class="f cap mono" x="43.5" y="211" text-anchor="middle">09</text>
   <text class="f cap mono" x="74.5" y="211" text-anchor="middle">10</text>
@@ -81,5 +81,5 @@
   <text class="f cap mono" x="322.5" y="211" text-anchor="middle">06</text>
   <text class="f cap mono" x="353.5" y="211" text-anchor="middle">07</text>
   <text class="f cap mono" x="384.5" y="211" text-anchor="middle">08</text>
-  <text class="f cap mono" x="26" y="238">91 RELEASES ON RECORD ACROSS ALL REPOS</text>
+  <text class="f cap mono" x="26" y="238">92 RELEASES ON RECORD ACROSS ALL REPOS</text>
 </svg>

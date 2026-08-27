@@ -107,9 +107,9 @@
 <!--START:ledger-->
 | 仓库 | 语言 | Stars | Forks | 最近推送 | 一句话 |
 |:--|:--|--:|--:|:--|:--|
-| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 282 | 12 | 2026-08-25 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
+| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 282 | 12 | 2026-08-26 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
 | [MyOI](https://github.com/Lynricsy/MyOI) | C++ | 113 | 0 | 2021-09-02 | My OI Code for OI learners. |
-| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 68 | 15 | 2026-08-26 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
+| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 68 | 15 | 2026-08-27 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
 | [Ollama2OpenAI](https://github.com/Lynricsy/Ollama2OpenAI) | HTML | 26 | 4 | 2025-06-20 | Convert Ollama format requests … |
 | [AC-Updater](https://github.com/Lynricsy/AC-Updater) | Python | 5 | 0 | 2021-01-14 | A Data Updater For Arknights-Ch… |
 | [AgentLogs](https://github.com/Lynricsy/AgentLogs) | JavaScript | 4 | 0 | 2026-08-10 | 一个简单的AI记录和查找工作日志的MCP工具 |
@@ -126,9 +126,9 @@
 
 **🚀 最近发布**
 
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** [`v0.1.14`](https://github.com/Lynricsy/OneSSH/releases/tag/v0.1.14) — 2026-08-27 · 9 artifacts
+- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20260826`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20260826) — 2026-08-26 · 46 artifacts
 - **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** [`snapshot-20260825`](https://github.com/Lynricsy/AdRulesUltra/releases/tag/snapshot-20260825) — 2026-08-25 · 46 artifacts
-- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20260825`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20260825) — 2026-08-25 · 46 artifacts
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** [`v0.1.13`](https://github.com/Lynricsy/OneSSH/releases/tag/v0.1.13) — 2026-08-20 · 9 artifacts
 - **[AgentConfigHub](https://github.com/Lynricsy/AgentConfigHub)** [`v0.2.2`](https://github.com/Lynricsy/AgentConfigHub/releases/tag/v0.2.2) — 2026-08-15
 - **[WanxiangExtra](https://github.com/Lynricsy/WanxiangExtra)** [`latest`](https://github.com/Lynricsy/WanxiangExtra/releases/tag/latest) — 2026-08-13 · 5 artifacts
 
@@ -137,11 +137,11 @@
 
 **⚡ 最近推进**
 
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-08-26 · Go
+- **[AgentLoom](https://github.com/Lynricsy/AgentLoom)** — 2026-08-27 · TypeScript
+- **[AgentConfigHub](https://github.com/Lynricsy/AgentConfigHub)** — 2026-08-27 · TypeScript
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-08-27 · Go
+- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-08-26 · Python
 - **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-08-25 · Python
-- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-08-25 · Python
-- **[AgentLoom](https://github.com/Lynricsy/AgentLoom)** — 2026-08-25 · TypeScript
-- **[WanxiangExtra](https://github.com/Lynricsy/WanxiangExtra)** — 2026-08-24 · Python
 
 </td>
 </tr>
@@ -170,7 +170,7 @@
 </picture>
 
 <!--START:stamp-->
-`最后同步 2026-08-26 · 75 repos · 519 stars · 7,406 contributions/12m`
+`最后同步 2026-08-27 · 75 repos · 519 stars · 7,469 contributions/12m`
 <!--END:stamp-->
 
 </div>

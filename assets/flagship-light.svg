@@ -51,14 +51,14 @@
     <circle class="glow" cx="400" cy="96" r="3.5" fill="#157f52"/>
   </g>
   <text class="f cap mono" x="26" y="118">RELEASE</text>
-  <text class="t sm mono" x="150" y="118">snapshot-20260825</text>
+  <text class="t sm mono" x="150" y="118">snapshot-20260826</text>
   <text class="f cap mono" x="26" y="142">BUILT</text>
-  <text class="t sm mono" x="150" y="142">2026-08-25 · 17h ago</text>
+  <text class="t sm mono" x="150" y="142">2026-08-26 · 14h ago</text>
   <text class="f cap mono" x="26" y="166">ARTIFACTS</text>
   <text class="t sm mono" x="150" y="166">46 files · 46.4 MB</text>
   <text class="f cap mono" x="26" y="190">DOWNLOADS</text>
-  <text class="t sm mono" x="150" y="190">381 on this build</text>
+  <text class="t sm mono" x="150" y="190">443 on this build</text>
   <text class="f cap mono" x="26" y="214">ADOPTION</text>
   <text class="t sm mono" x="150" y="214">282 stars · 12 forks</text>
-  <text class="f cap mono" x="26" y="238">MOST-STARRED SHIPPING REPO · 2026-08-26</text>
+  <text class="f cap mono" x="26" y="238">MOST-STARRED SHIPPING REPO · 2026-08-27</text>
 </svg>
