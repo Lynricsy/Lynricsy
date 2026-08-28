@@ -1,13 +1,3 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img src="assets/divider-dark.svg" alt="" width="100%">
-</picture>
-</div>
-
-### 数据面板
-
 <table>
 <tr>
 <td width="50%">
