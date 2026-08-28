@@ -1,31 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="泠音 · Lynricsy — building agent-native infrastructure" width="100%">
-</picture>
-
-<p>
-  <a href="https://xn--866a.com/"><img alt="blog" src="https://img.shields.io/badge/blog-%E9%B8%A2.com-c9821a?style=flat-square&labelColor=0d1117"></a>
-  <a href="https://github.com/Lynricsy?tab=repositories"><img alt="public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLynricsy&query=%24.public_repos&label=public%20repos&style=flat-square&labelColor=0d1117&color=e5657f"></a>
-  <a href="https://github.com/Lynricsy?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/Lynricsy?style=flat-square&labelColor=0d1117&color=8d5a86&label=followers"></a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=Lynricsy&style=flat-square&color=ffc857&label=profile+views">
-</p>
-
-</div>
-
-<table>
-<tr>
-<td valign="middle">
-
-哈尔滨工业大学本科在读。手上的东西集中在三个方向：让 AI Agent 拿到能力却拿不到钥匙的基础设施、每天可复现的公开数据流水线，以及从竞赛里带出来的那点对细节的偏执。
-
-这个页面上**没有一份手写的项目清单**。所有卡片、账本和动态都由 [`scripts/build-profile.mjs`](scripts/build-profile.mjs) 每天从 GitHub API 重新画一遍 —— 手写的介绍会腐烂，图表不会。同时也不依赖任何会突然 402/503 的公共卡片服务。
-
-</td>
-<td width="180" align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ornament-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/ornament-light.svg">
