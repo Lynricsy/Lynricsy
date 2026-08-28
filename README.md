@@ -1,13 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ornament-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ornament-light.svg">
-  <img src="assets/ornament-dark.svg" alt="" width="150">
-</picture>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
