@@ -59,9 +59,9 @@
 <!--START:ledger-->
 | 仓库 | 语言 | Stars | Forks | 最近推送 | 一句话 |
 |:--|:--|--:|--:|:--|:--|
-| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 282 | 12 | 2026-08-29 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
+| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 284 | 12 | 2026-08-29 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
 | [MyOI](https://github.com/Lynricsy/MyOI) | C++ | 113 | 0 | 2021-09-02 | My OI Code for OI learners. |
-| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 69 | 15 | 2026-08-28 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
+| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 70 | 15 | 2026-08-29 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
 | [Ollama2OpenAI](https://github.com/Lynricsy/Ollama2OpenAI) | HTML | 26 | 4 | 2025-06-20 | Convert Ollama format requests … |
 | [AC-Updater](https://github.com/Lynricsy/AC-Updater) | Python | 5 | 0 | 2021-01-14 | A Data Updater For Arknights-Ch… |
 | [AgentLogs](https://github.com/Lynricsy/AgentLogs) | JavaScript | 4 | 0 | 2026-08-10 | 一个简单的AI记录和查找工作日志的MCP工具 |
@@ -89,11 +89,11 @@
 
 **⚡ 最近推进**
 
+- **[AgentLoom](https://github.com/Lynricsy/AgentLoom)** — 2026-08-30 · TypeScript
+- **[omni-mail](https://github.com/Lynricsy/omni-mail)** — 2026-08-30 · TypeScript
 - **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-08-29 · Python
 - **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-08-29 · Python
-- **[AgentLoom](https://github.com/Lynricsy/AgentLoom)** — 2026-08-28 · TypeScript
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-08-28 · Go
-- **[AgentConfigHub](https://github.com/Lynricsy/AgentConfigHub)** — 2026-08-27 · TypeScript
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-08-29 · Go
 
 </td>
 </tr>
@@ -122,7 +122,7 @@
 </picture>
 
 <!--START:stamp-->
-`最后同步 2026-08-29 · 75 repos · 520 stars · 7,482 contributions/12m`
+`最后同步 2026-08-30 · 75 repos · 523 stars · 7,496 contributions/12m`
 <!--END:stamp-->
 
 </div>
