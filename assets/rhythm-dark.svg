@@ -44,7 +44,7 @@
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">contribution rhythm</text>
   <text class="f cap mono" x="414" y="25" text-anchor="end">53w</text>
-  <text class="t kpi mono" x="26" y="72">7,496</text>
+  <text class="t kpi mono" x="26" y="72">7,513</text>
   <text class="f cap mono" x="26" y="87">CONTRIBUTIONS</text>
   <text class="t kpi mono" x="126" y="72">180</text>
   <text class="f cap mono" x="126" y="87">ACTIVE DAYS</text>
@@ -111,5 +111,5 @@
   <text class="f cap mono" x="118.7" y="211">2025-11</text>
   <text class="f cap mono" x="211.4" y="211">2026-03</text>
   <text class="f cap mono" x="304.2" y="211">2026-05</text>
-  <text class="f cap mono" x="26" y="238">AVG 141 / WEEK · PEAK 1,185 IN ONE WEEK</text>
+  <text class="f cap mono" x="26" y="238">AVG 142 / WEEK · PEAK 1,185 IN ONE WEEK</text>
 </svg>
