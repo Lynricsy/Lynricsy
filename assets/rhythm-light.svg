@@ -44,9 +44,9 @@
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">contribution rhythm</text>
   <text class="f cap mono" x="414" y="25" text-anchor="end">53w</text>
-  <text class="t kpi mono" x="26" y="72">7,513</text>
+  <text class="t kpi mono" x="26" y="72">7,514</text>
   <text class="f cap mono" x="26" y="87">CONTRIBUTIONS</text>
-  <text class="t kpi mono" x="126" y="72">180</text>
+  <text class="t kpi mono" x="126" y="72">181</text>
   <text class="f cap mono" x="126" y="87">ACTIVE DAYS</text>
   <text class="t kpi mono" x="226" y="72">418</text>
   <text class="f cap mono" x="226" y="87">PEAK DAY</text>
