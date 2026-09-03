@@ -44,9 +44,9 @@
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">contribution rhythm</text>
   <text class="f cap mono" x="414" y="25" text-anchor="end">53w</text>
-  <text class="t kpi mono" x="26" y="72">7,514</text>
+  <text class="t kpi mono" x="26" y="72">7,532</text>
   <text class="f cap mono" x="26" y="87">CONTRIBUTIONS</text>
-  <text class="t kpi mono" x="126" y="72">181</text>
+  <text class="t kpi mono" x="126" y="72">183</text>
   <text class="f cap mono" x="126" y="87">ACTIVE DAYS</text>
   <text class="t kpi mono" x="226" y="72">418</text>
   <text class="f cap mono" x="226" y="87">PEAK DAY</text>
@@ -105,7 +105,7 @@
   <rect class="rise" x="375.5" y="184.9" width="5.5" height="9.1" rx="1.2" fill="url(#fade)" style="animation-delay:686ms"/>
   <rect class="rise" x="382.6" y="191.6" width="5.5" height="2.4" rx="1.2" fill="url(#fade)" style="animation-delay:700ms"/>
   <rect class="rise" x="389.7" y="187.1" width="5.5" height="6.9" rx="1.2" fill="url(#fade)" style="animation-delay:714ms"/>
-  <rect class="rise" x="396.9" y="192.5" width="5.5" height="1.5" rx="1.2" fill="url(#fade)" style="animation-delay:728ms"/>
+  <rect class="rise" x="396.9" y="191.5" width="5.5" height="2.5" rx="1.2" fill="url(#fade)" style="animation-delay:728ms"/>
   <line x1="26" y1="195" x2="404" y2="195" stroke="#e7dcdb" stroke-width="1"/>
   <text class="f cap mono" x="26.0" y="211">2025-08</text>
   <text class="f cap mono" x="118.7" y="211">2025-11</text>
