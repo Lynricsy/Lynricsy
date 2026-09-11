@@ -43,20 +43,20 @@
   <rect x=".5" y=".5" width="879" height="299" rx="13.5" fill="none" stroke="#ded3d0"/>
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">repository constellation</text>
-  <text class="f cap mono" x="864" y="25" text-anchor="end">75 repos</text>
+  <text class="f cap mono" x="864" y="25" text-anchor="end">76 repos</text>
   <text class="f cap mono" x="46" y="50">X = LAST PUSH · Y = STARS (LOG SCALE) · COLOR = PRIMARY LANGUAGE</text>
-  <line x1="144.0" y1="62" x2="144.0" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="144.0" y="248" text-anchor="middle">2021</text>
-  <line x1="266.2" y1="62" x2="266.2" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="266.2" y="248" text-anchor="middle">2022</text>
-  <line x1="388.4" y1="62" x2="388.4" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="388.4" y="248" text-anchor="middle">2023</text>
-  <line x1="510.7" y1="62" x2="510.7" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="510.7" y="248" text-anchor="middle">2024</text>
-  <line x1="633.3" y1="62" x2="633.3" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="633.3" y="248" text-anchor="middle">2025</text>
-  <line x1="755.5" y1="62" x2="755.5" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
-  <text class="f cap mono" x="755.5" y="248" text-anchor="middle">2026</text>
+  <line x1="143.9" y1="62" x2="143.9" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="143.9" y="248" text-anchor="middle">2021</text>
+  <line x1="266.1" y1="62" x2="266.1" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="266.1" y="248" text-anchor="middle">2022</text>
+  <line x1="388.3" y1="62" x2="388.3" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="388.3" y="248" text-anchor="middle">2023</text>
+  <line x1="510.5" y1="62" x2="510.5" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="510.5" y="248" text-anchor="middle">2024</text>
+  <line x1="633.0" y1="62" x2="633.0" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="633.0" y="248" text-anchor="middle">2025</text>
+  <line x1="755.2" y1="62" x2="755.2" y2="232" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="2 6"/>
+  <text class="f cap mono" x="755.2" y="248" text-anchor="middle">2026</text>
   <line x1="46" y1="212.5" x2="840" y2="212.5" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="1 7"/>
   <text class="f cap mono" x="38" y="215.5" text-anchor="end">1</text>
   <line x1="46" y1="164.4" x2="840" y2="164.4" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="1 7"/>
@@ -64,95 +64,96 @@
   <line x1="46" y1="101.9" x2="840" y2="101.9" stroke="#e7dcdb" stroke-width="1" stroke-dasharray="1 7"/>
   <text class="f cap mono" x="38" y="104.9" text-anchor="end">100</text>
   <line x1="46" y1="233" x2="840" y2="233" stroke="#ded3d0" stroke-width="1"/>
-  <circle class="pop" cx="839.9" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:0ms"/>
-  <circle class="glow" cx="839.7" cy="105.8" r="13.8" fill="#00ADD8" opacity=".18" style="animation-delay:600ms"/>
-  <circle class="pop" cx="839.7" cy="105.8" r="6.0" fill="#00ADD8" opacity=".92" style="animation-delay:22ms"/>
-  <circle class="pop" cx="839.7" cy="212.5" r="2.8" fill="#f1e05a" opacity=".92" style="animation-delay:44ms"/>
-  <circle class="glow" cx="839.5" cy="72.0" r="20.7" fill="#3572A5" opacity=".18" style="animation-delay:1800ms"/>
-  <circle class="pop" cx="839.5" cy="72.0" r="9.0" fill="#3572A5" opacity=".92" style="animation-delay:66ms"/>
-  <circle class="pop" cx="839.4" cy="192.9" r="3.1" fill="#3178c6" opacity=".92" style="animation-delay:88ms"/>
-  <circle class="pop" cx="837.3" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:110ms"/>
-  <circle class="pop" cx="836.9" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:132ms"/>
-  <circle class="pop" cx="836.5" cy="212.5" r="2.8" fill="#3178c6" opacity=".92" style="animation-delay:154ms"/>
-  <circle class="pop" cx="835.4" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:176ms"/>
-  <circle class="pop" cx="833.1" cy="232.0" r="2.4" fill="#89e051" opacity=".92" style="animation-delay:198ms"/>
-  <circle class="pop" cx="829.7" cy="186.6" r="3.2" fill="#f1e05a" opacity=".92" style="animation-delay:220ms"/>
-  <circle class="pop" cx="825.4" cy="232.0" r="2.4" fill="#00ADD8" opacity=".92" style="animation-delay:242ms"/>
-  <circle class="pop" cx="814.5" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:264ms"/>
-  <circle class="pop" cx="812.6" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:286ms"/>
-  <circle class="pop" cx="795.1" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:308ms"/>
-  <circle class="pop" cx="792.2" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:330ms"/>
-  <circle class="pop" cx="790.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:352ms"/>
-  <circle class="pop" cx="778.9" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:374ms"/>
-  <circle class="pop" cx="778.8" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:396ms"/>
-  <circle class="pop" cx="777.0" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:418ms"/>
-  <circle class="pop" cx="773.7" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:440ms"/>
-  <circle class="pop" cx="769.7" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:462ms"/>
-  <circle class="pop" cx="766.9" cy="201.0" r="2.9" fill="#3178c6" opacity=".92" style="animation-delay:484ms"/>
-  <circle class="pop" cx="766.6" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:506ms"/>
-  <circle class="pop" cx="766.2" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:528ms"/>
-  <circle class="pop" cx="762.3" cy="212.5" r="2.8" fill="#3572A5" opacity=".92" style="animation-delay:550ms"/>
-  <circle class="pop" cx="761.9" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:572ms"/>
-  <circle class="pop" cx="761.7" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:594ms"/>
-  <circle class="pop" cx="760.6" cy="232.0" r="2.4" fill="#00ADD8" opacity=".92" style="animation-delay:616ms"/>
-  <circle class="pop" cx="749.7" cy="232.0" r="2.4" fill="#89e051" opacity=".92" style="animation-delay:638ms"/>
-  <circle class="pop" cx="749.7" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:660ms"/>
-  <circle class="pop" cx="746.2" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:682ms"/>
-  <circle class="pop" cx="741.9" cy="212.5" r="2.8" fill="#3178c6" opacity=".92" style="animation-delay:704ms"/>
-  <circle class="pop" cx="733.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:726ms"/>
-  <circle class="pop" cx="720.4" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:748ms"/>
-  <circle class="pop" cx="698.8" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:770ms"/>
-  <circle class="pop" cx="690.4" cy="139.1" r="4.4" fill="#e34c26" opacity=".92" style="animation-delay:792ms"/>
-  <circle class="pop" cx="677.3" cy="212.5" r="2.8" fill="#8d8189" opacity=".92" style="animation-delay:814ms"/>
-  <circle class="pop" cx="658.1" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:836ms"/>
-  <circle class="pop" cx="658.1" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:858ms"/>
-  <circle class="pop" cx="658.1" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:880ms"/>
-  <circle class="pop" cx="618.4" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:902ms"/>
-  <circle class="pop" cx="613.7" cy="212.5" r="2.8" fill="#f1e05a" opacity=".92" style="animation-delay:924ms"/>
-  <circle class="pop" cx="607.8" cy="186.6" r="3.2" fill="#3572A5" opacity=".92" style="animation-delay:946ms"/>
-  <circle class="pop" cx="607.0" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:968ms"/>
-  <circle class="pop" cx="594.8" cy="232.0" r="2.4" fill="#a91e50" opacity=".92" style="animation-delay:990ms"/>
-  <circle class="pop" cx="594.6" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1012ms"/>
-  <circle class="pop" cx="591.9" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1034ms"/>
-  <circle class="pop" cx="581.7" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1056ms"/>
-  <circle class="pop" cx="538.9" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1078ms"/>
-  <circle class="pop" cx="535.3" cy="232.0" r="2.4" fill="#ff6347" opacity=".92" style="animation-delay:1100ms"/>
-  <circle class="pop" cx="513.8" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1122ms"/>
-  <circle class="pop" cx="497.0" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1144ms"/>
-  <circle class="pop" cx="453.1" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1166ms"/>
-  <circle class="pop" cx="448.6" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1188ms"/>
-  <circle class="pop" cx="442.9" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1210ms"/>
-  <circle class="pop" cx="424.4" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1232ms"/>
-  <circle class="pop" cx="411.3" cy="212.5" r="2.8" fill="#7355dd" opacity=".92" style="animation-delay:1254ms"/>
-  <circle class="pop" cx="403.6" cy="212.5" r="2.8" fill="#e34c26" opacity=".92" style="animation-delay:1276ms"/>
-  <circle class="pop" cx="381.7" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1298ms"/>
-  <circle class="pop" cx="371.7" cy="186.6" r="3.2" fill="#3178c6" opacity=".92" style="animation-delay:1320ms"/>
-  <circle class="pop" cx="346.7" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1342ms"/>
-  <circle class="pop" cx="306.8" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1364ms"/>
-  <circle class="pop" cx="257.2" cy="212.5" r="2.8" fill="#f34b7d" opacity=".92" style="animation-delay:1386ms"/>
-  <circle class="glow" cx="225.7" cy="98.5" r="15.0" fill="#f34b7d" opacity=".18" style="animation-delay:600ms"/>
-  <circle class="pop" cx="225.7" cy="98.5" r="6.5" fill="#f34b7d" opacity=".92" style="animation-delay:1408ms"/>
-  <circle class="pop" cx="206.0" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1430ms"/>
-  <circle class="pop" cx="205.3" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1452ms"/>
-  <circle class="pop" cx="205.1" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1474ms"/>
-  <circle class="pop" cx="197.4" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1496ms"/>
-  <circle class="pop" cx="195.9" cy="212.5" r="2.8" fill="#8d8189" opacity=".92" style="animation-delay:1518ms"/>
-  <circle class="pop" cx="192.0" cy="232.0" r="2.4" fill="#4F5D95" opacity=".92" style="animation-delay:1540ms"/>
-  <circle class="pop" cx="183.7" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1562ms"/>
-  <circle class="pop" cx="157.7" cy="232.0" r="2.4" fill="#f34b7d" opacity=".92" style="animation-delay:1584ms"/>
-  <circle class="pop" cx="148.4" cy="181.5" r="3.3" fill="#3572A5" opacity=".92" style="animation-delay:1606ms"/>
-  <circle class="pop" cx="46.0" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1628ms"/>
-  <text class="d sm mono pop" x="822.5" y="75.5" text-anchor="end" style="animation-delay:900ms">HyperADRules · 291★</text>
-  <text class="d sm mono pop" x="240.2" y="102.0" text-anchor="start" style="animation-delay:1020ms">MyOI · 113★</text>
-  <text class="d sm mono pop" x="825.7" y="109.3" text-anchor="end" style="animation-delay:1140ms">OneSSH · 87★</text>
-  <text class="d sm mono pop" x="678.0" y="142.6" text-anchor="end" style="animation-delay:1260ms">Ollama2OpenAI · 26★</text>
-  <text class="d sm mono pop" x="159.7" y="185.0" text-anchor="start" style="animation-delay:1380ms">AC-Updater · 5★</text>
+  <circle class="glow" cx="840.0" cy="104.9" r="14.0" fill="#00ADD8" opacity=".18" style="animation-delay:0ms"/>
+  <circle class="pop" cx="840.0" cy="104.9" r="6.1" fill="#00ADD8" opacity=".92" style="animation-delay:0ms"/>
+  <circle class="pop" cx="840.0" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:22ms"/>
+  <circle class="glow" cx="839.9" cy="72.0" r="20.7" fill="#3572A5" opacity=".18" style="animation-delay:1200ms"/>
+  <circle class="pop" cx="839.9" cy="72.0" r="9.0" fill="#3572A5" opacity=".92" style="animation-delay:44ms"/>
+  <circle class="pop" cx="839.9" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:66ms"/>
+  <circle class="pop" cx="839.7" cy="212.5" r="2.8" fill="#f1e05a" opacity=".92" style="animation-delay:88ms"/>
+  <circle class="pop" cx="839.1" cy="192.9" r="3.1" fill="#3178c6" opacity=".92" style="animation-delay:110ms"/>
+  <circle class="pop" cx="837.0" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:132ms"/>
+  <circle class="pop" cx="836.6" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:154ms"/>
+  <circle class="pop" cx="836.2" cy="212.5" r="2.8" fill="#3178c6" opacity=".92" style="animation-delay:176ms"/>
+  <circle class="pop" cx="835.0" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:198ms"/>
+  <circle class="pop" cx="832.7" cy="232.0" r="2.4" fill="#89e051" opacity=".92" style="animation-delay:220ms"/>
+  <circle class="pop" cx="829.4" cy="186.6" r="3.2" fill="#f1e05a" opacity=".92" style="animation-delay:242ms"/>
+  <circle class="pop" cx="825.1" cy="232.0" r="2.4" fill="#00ADD8" opacity=".92" style="animation-delay:264ms"/>
+  <circle class="pop" cx="814.1" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:286ms"/>
+  <circle class="pop" cx="812.3" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:308ms"/>
+  <circle class="pop" cx="794.7" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:330ms"/>
+  <circle class="pop" cx="791.9" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:352ms"/>
+  <circle class="pop" cx="790.6" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:374ms"/>
+  <circle class="pop" cx="778.6" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:396ms"/>
+  <circle class="pop" cx="778.5" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:418ms"/>
+  <circle class="pop" cx="776.7" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:440ms"/>
+  <circle class="pop" cx="773.4" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:462ms"/>
+  <circle class="pop" cx="769.3" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:484ms"/>
+  <circle class="pop" cx="766.6" cy="201.0" r="2.9" fill="#3178c6" opacity=".92" style="animation-delay:506ms"/>
+  <circle class="pop" cx="766.3" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:528ms"/>
+  <circle class="pop" cx="765.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:550ms"/>
+  <circle class="pop" cx="762.0" cy="212.5" r="2.8" fill="#3572A5" opacity=".92" style="animation-delay:572ms"/>
+  <circle class="pop" cx="761.6" cy="232.0" r="2.4" fill="#dea584" opacity=".92" style="animation-delay:594ms"/>
+  <circle class="pop" cx="761.4" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:616ms"/>
+  <circle class="pop" cx="760.3" cy="232.0" r="2.4" fill="#00ADD8" opacity=".92" style="animation-delay:638ms"/>
+  <circle class="pop" cx="749.4" cy="232.0" r="2.4" fill="#89e051" opacity=".92" style="animation-delay:660ms"/>
+  <circle class="pop" cx="749.4" cy="232.0" r="2.4" fill="#3572A5" opacity=".92" style="animation-delay:682ms"/>
+  <circle class="pop" cx="745.9" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:704ms"/>
+  <circle class="pop" cx="741.6" cy="212.5" r="2.8" fill="#3178c6" opacity=".92" style="animation-delay:726ms"/>
+  <circle class="pop" cx="733.6" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:748ms"/>
+  <circle class="pop" cx="720.1" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:770ms"/>
+  <circle class="pop" cx="698.5" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:792ms"/>
+  <circle class="pop" cx="690.1" cy="139.1" r="4.4" fill="#e34c26" opacity=".92" style="animation-delay:814ms"/>
+  <circle class="pop" cx="677.0" cy="212.5" r="2.8" fill="#8d8189" opacity=".92" style="animation-delay:836ms"/>
+  <circle class="pop" cx="657.9" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:858ms"/>
+  <circle class="pop" cx="657.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:880ms"/>
+  <circle class="pop" cx="657.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:902ms"/>
+  <circle class="pop" cx="618.1" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:924ms"/>
+  <circle class="pop" cx="613.4" cy="212.5" r="2.8" fill="#f1e05a" opacity=".92" style="animation-delay:946ms"/>
+  <circle class="pop" cx="607.6" cy="186.6" r="3.2" fill="#3572A5" opacity=".92" style="animation-delay:968ms"/>
+  <circle class="pop" cx="606.7" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:990ms"/>
+  <circle class="pop" cx="594.6" cy="232.0" r="2.4" fill="#a91e50" opacity=".92" style="animation-delay:1012ms"/>
+  <circle class="pop" cx="594.4" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1034ms"/>
+  <circle class="pop" cx="591.7" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1056ms"/>
+  <circle class="pop" cx="581.5" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1078ms"/>
+  <circle class="pop" cx="538.7" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1100ms"/>
+  <circle class="pop" cx="535.0" cy="232.0" r="2.4" fill="#ff6347" opacity=".92" style="animation-delay:1122ms"/>
+  <circle class="pop" cx="513.6" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1144ms"/>
+  <circle class="pop" cx="496.8" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1166ms"/>
+  <circle class="pop" cx="452.9" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1188ms"/>
+  <circle class="pop" cx="448.4" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1210ms"/>
+  <circle class="pop" cx="442.7" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1232ms"/>
+  <circle class="pop" cx="424.2" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1254ms"/>
+  <circle class="pop" cx="411.1" cy="212.5" r="2.8" fill="#7355dd" opacity=".92" style="animation-delay:1276ms"/>
+  <circle class="pop" cx="403.4" cy="212.5" r="2.8" fill="#e34c26" opacity=".92" style="animation-delay:1298ms"/>
+  <circle class="pop" cx="381.6" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1320ms"/>
+  <circle class="pop" cx="371.6" cy="186.6" r="3.2" fill="#3178c6" opacity=".92" style="animation-delay:1342ms"/>
+  <circle class="pop" cx="346.6" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1364ms"/>
+  <circle class="pop" cx="306.7" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1386ms"/>
+  <circle class="pop" cx="257.1" cy="212.5" r="2.8" fill="#f34b7d" opacity=".92" style="animation-delay:1408ms"/>
+  <circle class="glow" cx="225.6" cy="98.5" r="15.0" fill="#f34b7d" opacity=".18" style="animation-delay:1200ms"/>
+  <circle class="pop" cx="225.6" cy="98.5" r="6.5" fill="#f34b7d" opacity=".92" style="animation-delay:1430ms"/>
+  <circle class="pop" cx="206.0" cy="232.0" r="2.4" fill="#e34c26" opacity=".92" style="animation-delay:1452ms"/>
+  <circle class="pop" cx="205.2" cy="232.0" r="2.4" fill="#3178c6" opacity=".92" style="animation-delay:1474ms"/>
+  <circle class="pop" cx="205.0" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1496ms"/>
+  <circle class="pop" cx="197.4" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1518ms"/>
+  <circle class="pop" cx="195.8" cy="212.5" r="2.8" fill="#8d8189" opacity=".92" style="animation-delay:1540ms"/>
+  <circle class="pop" cx="191.9" cy="232.0" r="2.4" fill="#4F5D95" opacity=".92" style="animation-delay:1562ms"/>
+  <circle class="pop" cx="183.6" cy="232.0" r="2.4" fill="#f1e05a" opacity=".92" style="animation-delay:1584ms"/>
+  <circle class="pop" cx="157.6" cy="232.0" r="2.4" fill="#f34b7d" opacity=".92" style="animation-delay:1606ms"/>
+  <circle class="pop" cx="148.4" cy="181.5" r="3.3" fill="#3572A5" opacity=".92" style="animation-delay:1628ms"/>
+  <circle class="pop" cx="46.0" cy="232.0" r="2.4" fill="#8d8189" opacity=".92" style="animation-delay:1650ms"/>
+  <text class="d sm mono pop" x="822.9" y="75.5" text-anchor="end" style="animation-delay:900ms">HyperADRules · 291★</text>
+  <text class="d sm mono pop" x="240.1" y="102.0" text-anchor="start" style="animation-delay:1020ms">MyOI · 113★</text>
+  <text class="d sm mono pop" x="825.9" y="108.4" text-anchor="end" style="animation-delay:1140ms">OneSSH · 90★</text>
+  <text class="d sm mono pop" x="677.8" y="142.6" text-anchor="end" style="animation-delay:1260ms">Ollama2OpenAI · 26★</text>
+  <text class="d sm mono pop" x="159.6" y="185.0" text-anchor="start" style="animation-delay:1380ms">AC-Updater · 5★</text>
   <circle cx="50" cy="284" r="4" fill="#3178c6"/>
   <text class="f cap mono" x="59" y="288">TYPESCRIPT</text>
-  <circle cx="168" cy="284" r="4" fill="#f1e05a"/>
-  <text class="f cap mono" x="177" y="288">JAVASCRIPT</text>
-  <circle cx="286" cy="284" r="4" fill="#3572A5"/>
-  <text class="f cap mono" x="295" y="288">PYTHON</text>
+  <circle cx="168" cy="284" r="4" fill="#3572A5"/>
+  <text class="f cap mono" x="177" y="288">PYTHON</text>
+  <circle cx="286" cy="284" r="4" fill="#f1e05a"/>
+  <text class="f cap mono" x="295" y="288">JAVASCRIPT</text>
   <circle cx="404" cy="284" r="4" fill="#e34c26"/>
   <text class="f cap mono" x="413" y="288">HTML</text>
   <circle cx="522" cy="284" r="4" fill="#dea584"/>
