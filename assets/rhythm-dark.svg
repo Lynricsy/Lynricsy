@@ -105,7 +105,7 @@
   <rect class="rise" x="375.5" y="160.7" width="5.5" height="33.3" rx="1.2" fill="url(#fade)" style="animation-delay:686ms"/>
   <rect class="rise" x="382.6" y="168.8" width="5.5" height="25.2" rx="1.2" fill="url(#fade)" style="animation-delay:700ms"/>
   <rect class="rise" x="389.7" y="192.5" width="5.5" height="1.5" rx="1.2" fill="url(#fade)" style="animation-delay:714ms"/>
-  <rect class="rise" x="396.9" y="185.4" width="5.5" height="8.6" rx="1.2" fill="url(#fade)" style="animation-delay:728ms"/>
+  <rect class="rise" x="396.9" y="185.3" width="5.5" height="8.7" rx="1.2" fill="url(#fade)" style="animation-delay:728ms"/>
   <line x1="26" y1="195" x2="404" y2="195" stroke="#242040" stroke-width="1"/>
   <text class="f cap mono" x="26.0" y="211">2025-11</text>
   <text class="f cap mono" x="118.7" y="211">2026-02</text>
