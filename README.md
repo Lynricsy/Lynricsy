@@ -60,7 +60,7 @@
 | 仓库 | 语言 | Stars | Forks | 最近推送 | 一句话 |
 |:--|:--|--:|--:|:--|:--|
 | [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 291 | 10 | 2026-11-03 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
-| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 161 | 26 | 2026-11-02 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
+| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 161 | 26 | 2026-11-03 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
 | [MyOI](https://github.com/Lynricsy/MyOI) | C++ | 112 | 0 | 2021-09-02 | My OI Code for OI learners. |
 | [Ollama2OpenAI](https://github.com/Lynricsy/Ollama2OpenAI) | HTML | 26 | 5 | 2025-06-20 | Convert Ollama format requests … |
 | [HyperSkills](https://github.com/Lynricsy/HyperSkills) | Python | 25 | 0 | 2026-11-01 | 整合型 Agent Skill 集合：一个技术生态或一类任务 … |
@@ -78,7 +78,7 @@
 
 **🚀 最近发布**
 
-- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** [`snapshot-20261103`](https://github.com/Lynricsy/AdRulesUltra/releases/tag/snapshot-20261103) — 2026-11-03 · 46 artifacts
+- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** [`snapshot-20261104`](https://github.com/Lynricsy/AdRulesUltra/releases/tag/snapshot-20261104) — 2026-11-04 · 46 artifacts
 - **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20261103`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20261103) — 2026-11-03 · 46 artifacts
 - **[OneSSH](https://github.com/Lynricsy/OneSSH)** [`v0.1.21`](https://github.com/Lynricsy/OneSSH/releases/tag/v0.1.21) — 2026-11-01 · 9 artifacts
 - **[CloudreveMobile](https://github.com/Lynricsy/CloudreveMobile)** [`v0.1.0`](https://github.com/Lynricsy/CloudreveMobile/releases/tag/v0.1.0) — 2026-10-22 · 3 artifacts
@@ -89,11 +89,11 @@
 
 **⚡ 最近推进**
 
-- **[WanxiangExtra](https://github.com/Lynricsy/WanxiangExtra)** — 2026-11-03 · Python
-- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-11-03 · Python
+- **[WanxiangExtra](https://github.com/Lynricsy/WanxiangExtra)** — 2026-11-04 · Python
+- **[AgentLoom](https://github.com/Lynricsy/AgentLoom)** — 2026-11-04 · TypeScript
+- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-11-04 · Python
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-03 · Go
 - **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-11-03 · Python
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-02 · Go
-- **[HyperSkills](https://github.com/Lynricsy/HyperSkills)** — 2026-11-01 · Python
 
 </td>
 </tr>
@@ -122,7 +122,7 @@
 </picture>
 
 <!--START:stamp-->
-`最后同步 2026-11-03 · 80 repos · 647 stars · 9,689 contributions/12m`
+`最后同步 2026-11-04 · 80 repos · 647 stars · 9,711 contributions/12m`
 <!--END:stamp-->
 
 </div>
