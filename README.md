@@ -59,8 +59,8 @@
 <!--START:ledger-->
 | 仓库 | 语言 | Stars | Forks | 最近推送 | 一句话 |
 |:--|:--|--:|--:|:--|:--|
-| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 289 | 10 | 2026-11-21 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
-| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 171 | 29 | 2026-11-20 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
+| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 288 | 10 | 2026-11-21 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
+| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 171 | 29 | 2026-11-21 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
 | [MyOI](https://github.com/Lynricsy/MyOI) | C++ | 112 | 0 | 2021-09-02 | My OI Code for OI learners. |
 | [HyperSkills](https://github.com/Lynricsy/HyperSkills) | Python | 27 | 0 | 2026-11-07 | 整合型 Agent Skill 集合：一个技术生态或一类任务 … |
 | [Ollama2OpenAI](https://github.com/Lynricsy/Ollama2OpenAI) | HTML | 26 | 5 | 2025-06-20 | Convert Ollama format requests … |
@@ -89,11 +89,11 @@
 
 **⚡ 最近推进**
 
+- **[oryn-core](https://github.com/Lynricsy/oryn-core)** — 2026-11-22 · TypeScript
+- **[AIAPIPreLayer](https://github.com/Lynricsy/AIAPIPreLayer)** — 2026-11-22 · TypeScript
+- **[SimpleAIAPI](https://github.com/Lynricsy/SimpleAIAPI)** — 2026-11-22 · TypeScript
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-21 · Go
 - **[Oryn](https://github.com/Lynricsy/Oryn)** — 2026-11-21 · Go
-- **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-11-21 · Python
-- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-11-21 · Python
-- **[oryn-core](https://github.com/Lynricsy/oryn-core)** — 2026-11-20 · TypeScript
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-20 · Go
 
 </td>
 </tr>
@@ -122,7 +122,7 @@
 </picture>
 
 <!--START:stamp-->
-`最后同步 2026-11-21 · 83 repos · 658 stars · 10,967 contributions/12m`
+`最后同步 2026-11-22 · 83 repos · 657 stars · 11,284 contributions/12m`
 <!--END:stamp-->
 
 </div>
