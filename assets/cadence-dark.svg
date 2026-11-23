@@ -44,33 +44,33 @@
   <rect x="14" y="14" width="3" height="14" rx="1.5" fill="url(#edge)"/>
   <text class="t title" x="26" y="25">shipping cadence</text>
   <text class="f cap mono" x="414" y="25" text-anchor="end">12m</text>
-  <text class="t kpi mono" x="26" y="72">131</text>
+  <text class="t kpi mono" x="26" y="72">136</text>
   <text class="f cap mono" x="26" y="87">RELEASES 12M</text>
   <text class="t kpi mono" x="158" y="72">13</text>
   <text class="f cap mono" x="158" y="87">REPOS SHIPPING</text>
-  <text class="t kpi mono" x="290" y="72">52</text>
+  <text class="t kpi mono" x="290" y="72">59</text>
   <text class="f cap mono" x="290" y="87">BUSIEST MONTH</text>
   <text class="f cap mono" x="26" y="108">TAGGED RELEASES PER MONTH</text>
   <rect class="rise" x="32.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#242040" style="animation-delay:0ms"/>
-  <rect class="rise" x="63.0" y="170.9" width="23.0" height="23.1" rx="2" fill="url(#fade)" style="animation-delay:55ms"/>
-  <text class="f cap mono" x="74.5" y="165.9" text-anchor="middle">6</text>
-  <rect class="rise" x="94.0" y="175.1" width="23.0" height="18.9" rx="2" fill="url(#fade)" style="animation-delay:110ms"/>
-  <text class="f cap mono" x="105.5" y="170.1" text-anchor="middle">4</text>
+  <rect class="rise" x="63.0" y="172.3" width="23.0" height="21.7" rx="2" fill="url(#fade)" style="animation-delay:55ms"/>
+  <text class="f cap mono" x="74.5" y="167.3" text-anchor="middle">6</text>
+  <rect class="rise" x="94.0" y="176.3" width="23.0" height="17.7" rx="2" fill="url(#fade)" style="animation-delay:110ms"/>
+  <text class="f cap mono" x="105.5" y="171.3" text-anchor="middle">4</text>
   <rect class="rise" x="125.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#242040" style="animation-delay:165ms"/>
   <rect class="rise" x="156.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#242040" style="animation-delay:220ms"/>
   <rect class="rise" x="187.0" y="192.0" width="23.0" height="2.0" rx="2" fill="#242040" style="animation-delay:275ms"/>
-  <rect class="rise" x="218.0" y="164.2" width="23.0" height="29.8" rx="2" fill="url(#fade)" style="animation-delay:330ms"/>
-  <text class="f cap mono" x="229.5" y="159.2" text-anchor="middle">10</text>
-  <rect class="rise" x="249.0" y="184.6" width="23.0" height="9.4" rx="2" fill="url(#fade)" style="animation-delay:385ms"/>
-  <text class="f cap mono" x="260.5" y="179.6" text-anchor="middle">1</text>
-  <rect class="rise" x="280.0" y="151.8" width="23.0" height="42.2" rx="2" fill="url(#fade)" style="animation-delay:440ms"/>
-  <text class="f cap mono" x="291.5" y="146.8" text-anchor="middle">20</text>
-  <rect class="rise" x="311.0" y="165.7" width="23.0" height="28.3" rx="2" fill="url(#fade)" style="animation-delay:495ms"/>
-  <text class="f cap mono" x="322.5" y="160.7" text-anchor="middle">9</text>
-  <rect class="rise" x="342.0" y="143.2" width="23.0" height="50.8" rx="2" fill="url(#fade)" style="animation-delay:550ms"/>
-  <text class="f cap mono" x="353.5" y="138.2" text-anchor="middle">29</text>
+  <rect class="rise" x="218.0" y="166.0" width="23.0" height="28.0" rx="2" fill="url(#fade)" style="animation-delay:330ms"/>
+  <text class="f cap mono" x="229.5" y="161.0" text-anchor="middle">10</text>
+  <rect class="rise" x="249.0" y="185.1" width="23.0" height="8.9" rx="2" fill="url(#fade)" style="animation-delay:385ms"/>
+  <text class="f cap mono" x="260.5" y="180.1" text-anchor="middle">1</text>
+  <rect class="rise" x="280.0" y="154.4" width="23.0" height="39.6" rx="2" fill="url(#fade)" style="animation-delay:440ms"/>
+  <text class="f cap mono" x="291.5" y="149.4" text-anchor="middle">20</text>
+  <rect class="rise" x="311.0" y="167.4" width="23.0" height="26.6" rx="2" fill="url(#fade)" style="animation-delay:495ms"/>
+  <text class="f cap mono" x="322.5" y="162.4" text-anchor="middle">9</text>
+  <rect class="rise" x="342.0" y="148.0" width="23.0" height="46.0" rx="2" fill="url(#fade)" style="animation-delay:550ms"/>
+  <text class="f cap mono" x="353.5" y="143.0" text-anchor="middle">27</text>
   <rect class="rise" x="373.0" y="126.0" width="23.0" height="68.0" rx="2" fill="url(#fade)" style="animation-delay:605ms"/>
-  <text class="f cap mono" x="384.5" y="121.0" text-anchor="middle">52</text>
+  <text class="f cap mono" x="384.5" y="121.0" text-anchor="middle">59</text>
   <line x1="32" y1="195" x2="404" y2="195" stroke="#242040" stroke-width="1"/>
   <text class="f cap mono" x="43.5" y="211" text-anchor="middle">12</text>
   <text class="f cap mono" x="74.5" y="211" text-anchor="middle">01</text>
@@ -84,5 +84,5 @@
   <text class="f cap mono" x="322.5" y="211" text-anchor="middle">09</text>
   <text class="f cap mono" x="353.5" y="211" text-anchor="middle">10</text>
   <text class="f cap mono" x="384.5" y="211" text-anchor="middle">11</text>
-  <text class="f cap mono" x="26" y="238">132 RELEASES ON RECORD ACROSS ALL REPOS</text>
+  <text class="f cap mono" x="26" y="238">137 RELEASES ON RECORD ACROSS ALL REPOS</text>
 </svg>
