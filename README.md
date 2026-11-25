@@ -59,8 +59,8 @@
 <!--START:ledger-->
 | 仓库 | 语言 | Stars | Forks | 最近推送 | 一句话 |
 |:--|:--|--:|--:|:--|:--|
-| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 288 | 10 | 2026-11-24 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
-| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 175 | 31 | 2026-11-23 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
+| [HyperADRules](https://github.com/Lynricsy/HyperADRules) | Python | 288 | 10 | 2026-11-25 | HyperADRules — 下一代广告/恶意域名规则聚合；多… |
+| [OneSSH](https://github.com/Lynricsy/OneSSH) | Go | 175 | 32 | 2026-11-25 | 面向 AI Agent 的集中式 SSH 网关，提供 MCP … |
 | [MyOI](https://github.com/Lynricsy/MyOI) | C++ | 112 | 0 | 2021-09-02 | My OI Code for OI learners. |
 | [HyperSkills](https://github.com/Lynricsy/HyperSkills) | Python | 27 | 0 | 2026-11-07 | 整合型 Agent Skill 集合：一个技术生态或一类任务 … |
 | [Ollama2OpenAI](https://github.com/Lynricsy/Ollama2OpenAI) | HTML | 26 | 5 | 2025-06-20 | Convert Ollama format requests … |
@@ -78,9 +78,9 @@
 
 **🚀 最近发布**
 
-- **[oryn-core](https://github.com/Lynricsy/oryn-core)** [`oryn-v19.0.1-11`](https://github.com/Lynricsy/oryn-core/releases/tag/oryn-v19.0.1-11) — 2026-11-24 · 5 artifacts
-- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20261124`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20261124) — 2026-11-24 · 46 artifacts
-- **[Oryn](https://github.com/Lynricsy/Oryn)** [`v0.1.0-rc.9`](https://github.com/Lynricsy/Oryn/releases/tag/v0.1.0-rc.9) — 2026-11-23 · 22 artifacts
+- **[Oryn](https://github.com/Lynricsy/Oryn)** [`v0.1.0-rc.12`](https://github.com/Lynricsy/Oryn/releases/tag/v0.1.0-rc.12) — 2026-11-25 · 29 artifacts
+- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** [`snapshot-20261125`](https://github.com/Lynricsy/HyperADRules/releases/tag/snapshot-20261125) — 2026-11-25 · 46 artifacts
+- **[oryn-core](https://github.com/Lynricsy/oryn-core)** [`oryn-v19.0.1-16`](https://github.com/Lynricsy/oryn-core/releases/tag/oryn-v19.0.1-16) — 2026-11-24 · 5 artifacts
 - **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** [`snapshot-20261123`](https://github.com/Lynricsy/AdRulesUltra/releases/tag/snapshot-20261123) — 2026-11-23 · 46 artifacts
 - **[OneSSH](https://github.com/Lynricsy/OneSSH)** [`v0.1.21`](https://github.com/Lynricsy/OneSSH/releases/tag/v0.1.21) — 2026-11-01 · 9 artifacts
 
@@ -89,10 +89,10 @@
 
 **⚡ 最近推进**
 
+- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-25 · Go
+- **[Oryn](https://github.com/Lynricsy/Oryn)** — 2026-11-25 · Go
+- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-11-25 · Python
 - **[oryn-core](https://github.com/Lynricsy/oryn-core)** — 2026-11-24 · TypeScript
-- **[HyperADRules](https://github.com/Lynricsy/HyperADRules)** — 2026-11-24 · Python
-- **[Oryn](https://github.com/Lynricsy/Oryn)** — 2026-11-23 · Go
-- **[OneSSH](https://github.com/Lynricsy/OneSSH)** — 2026-11-23 · Go
 - **[AdRulesUltra](https://github.com/Lynricsy/AdRulesUltra)** — 2026-11-23 · Python
 
 </td>
@@ -122,7 +122,7 @@
 </picture>
 
 <!--START:stamp-->
-`最后同步 2026-11-24 · 83 repos · 661 stars · 11,776 contributions/12m`
+`最后同步 2026-11-25 · 83 repos · 661 stars · 11,964 contributions/12m`
 <!--END:stamp-->
 
 </div>
